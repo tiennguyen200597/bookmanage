@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Quản lý sách</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_login">Login in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Tài khoản</string>
+    <string name="prompt_password">Mật khẩu</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <!--List activity -->
+    <string name="tv_user">Người dùng</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="tv_welcom">Xin Chào!</string>
+    <string name="tv_tile">Vui lòng nhập đầy đủ thông tin.</string>
+    <string name="tv_rememberpass">Lưu mật khẩu</string>
+    <string name="tv_forgotpass">Quên mật khẩu?</string>
+    <string name="tv_notuser">Bạn chưa có tài khoản ?   Đăng kí</string>
+    <string name="title_activity_register">Register</string>
+    <string name="tv_register">Đăng ký</string>
+    <string name="re_password">Nhập lại mật khẩu</string>
+    <string name="tv_agree">Tôi đồng ý với các điều khoản</string>
+    <string name="tv_haveuser">Bạn đã có tài khoản ?   Đăng nhập</string>
+    <string name="title_activity_forget_user">Quên mật khẩu</string>
+    <!--Menu activity-->
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nguyễn Văn Tiến</string>
+    <string name="nav_header_subtitle">tiennvph06776@fpt.edu.vn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_logout">Đăng xuất</string>
+    <string name="tv_change_password">Đổi mật khẩu</string>
+    <string name="tv_menu">Menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="tv_add">Thêm</string>
+    <string name="title_activity_book_category">BookCategoryActivity</string>
+    <string name="title_activity_book">BookActivity</string>
+    <string name="title_activity_invoice">InvoiceActivity</string>
+    <string name="title_activity_top_popular">TopPopularActivity</string>
+    <string name="title_activity_statistic">StatisticActivity</string>
+    <string name="tv_book">Sách</string>
+    <string name="tv_bookcategory">Thể loại</string>
+    <string name="tv_invoice">Hóa đơn</string>
+    <string name="tv_toppopular">Top 10 sách bán chạy</string>
+    <string name="tv_statistic">Doanh thu</string>
+    <string name="tv_add_user">Thêm người dùng</string>
+    <string name="tv_password">Mật khẩu</string>
+    <string name="tv_nameapp">Ứng dụng quản lý sách</string>
+    <string name="tv_1">To finish setting up Great Simple, visit www.greatsimple.io</string>
+    <string name="tv_2">Install the Great Simple app for your computer</string>
+    <!--Login activity-->
+</resources>
